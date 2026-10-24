@@ -1,6 +1,6 @@
 # GIS Internship, SpatioCore Tech (June-August 2026)
 
-![Internship completion certificate](Ms. Aiman Binte Maqsood certificate.png)
+![Internship completion certificate](Ms. Aiman Binte Maqsood certificate.pdf)
 
 ## Overview
 Completed a geospatial mapping internship at SpatioCore Tech, Islamabad, Pakistan, from June to August 2026. The work focused on heat vulnerability mapping using GIS and remote sensing data.
