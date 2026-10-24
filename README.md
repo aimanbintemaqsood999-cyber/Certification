@@ -21,9 +21,7 @@ GIS and remote sensing, spatial analysis, Land cover/Land use
 Issued by SpatioCore Tech, 2026.
 
 **2. Organizer, International Training Workshop on Agriculture Using Satellite Data (AGRISAT 2026)**
-
-![AGRISAT 2026 certificate of appreciation](Agrisat_2026_certificate.jpeg)
-
+[View on GitHub](https://github.com/aimanbintemaqsood999-cyber/Certification/blob/main/Agrisat_2026_certificate.jpeg)
 Received a Certificate of Appreciation for serving as an **organizer** of the International Training Workshop on Agriculture Using Satellite Data, 2026.
 
 - **Organized by:** Institute of Geo-Information & Earth Observation (IGEO), PMAS Arid Agriculture University Rawalpindi
