@@ -1,5 +1,5 @@
 **1. GIS Internship, SpatioCore Tech (June-August 2026)**
-[View on GitHub](https://github.com/aimanbintemaqsood999-cyber/Certification/blob/main/certificate.pdf?raw=true)
+[View on GitHub](https://github.com/aimanbintemaqsood999-cyber/Certification/blob/main/certificate.pdf)
 
 **Overview**
 
