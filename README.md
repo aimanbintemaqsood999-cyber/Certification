@@ -1,4 +1,4 @@
-**1. GIS Internship, SpatioCore Tech (June-August 2026)**
+##1. GIS Internship, SpatioCore Tech (June-August 2026)
 [view certificate.pdf](certificate.pdf)
 ## Overview
 Completed a geospatial mapping internship at SpatioCore Tech, Islamabad, Pakistan, from June to August 2026. The work focused on heat vulnerability mapping using GIS and remote sensing data.
