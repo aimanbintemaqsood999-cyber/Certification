@@ -1,6 +1,5 @@
 **1. GIS Internship, SpatioCore Tech (June-August 2026)**
-[View on GitHub](https://github.com/aimanbintemaqsood999-cyber/Certification/blob/main/certificate.pdf)
-
+[View on GitHub](https://github.com/aimanbintemaqsood999-cyber/Certification/blob/main/certificate.pdf?raw=true)
 **Overview**
 
 Completed a geospatial mapping internship at SpatioCore Tech, Islamabad, Pakistan, from June to August 2026. The work focused on heat vulnerability mapping using GIS and remote sensing data.
